@@ -1,3 +1,3 @@
 # OpenTradmill
 
-Android app for use with NordicTrack or ProForm treadmill
+Android app for NordicTrack or ProForm treadmill
